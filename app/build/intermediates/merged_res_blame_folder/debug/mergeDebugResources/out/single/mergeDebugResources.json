@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_card_registration.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/card_registration.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_fragment_event.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/fragment_event.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/xml_backup_rules.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_activity_detail_event.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/activity_detail_event.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_badge_rounded.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/badge_rounded.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_library_books_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_library_books_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_fragment_registered.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/fragment_registered.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_add_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_email_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_ic_event_note.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/ic_event_note.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_ic_confirmation_number.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/ic_confirmation_number.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_home_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_thumb_up_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_thumb_up_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_card_event.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/card_event.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_baseline_person_24.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_fragment_profile.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/drawable_ic_location_on.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/drawable/ic_location_on.xml"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ubayadev.eventubaya.app-debug-40:/layout_activity_register_event.xml.flat",
+        "source": "com.ubayadev.eventubaya.app-main-42:/layout/activity_register_event.xml"
+    }
+]

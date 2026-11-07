@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EventUbaya" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ubaya_red</item>
+        <item name="colorPrimaryVariant">@color/ubaya_red_dark</item>
+        <item name="colorSecondary">@color/ubaya_blue</item>
+        <item name="android:statusBarColor">@color/ubaya_red_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.EventUbaya" parent="Base.Theme.EventUbaya" />
+
+    <!-- Custom Text Styles for consistent typography -->
+    <style name="TitleText">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SubtitleText">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

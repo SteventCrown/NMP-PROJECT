@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="background_light">#F5F5F7</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="chip_bg">#EEEEEE</color>
+    <color name="success_green">#2E7D32</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+    <color name="ubaya_blue">#1565C0</color>
+    <color name="ubaya_gold">#F57F17</color>
+    <color name="ubaya_red">#C62828</color>
+    <color name="ubaya_red_dark">#8E0000</color>
+    <color name="ubaya_red_light">#FFCDD2</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">EventUbaya</string>
+    <string name="menu_events">Jelajah Event</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_registered">Tiket Saya</string>
+    <style name="Base.Theme.EventUbaya" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ubaya_red</item>
+        <item name="colorPrimaryVariant">@color/ubaya_red_dark</item>
+        <item name="colorSecondary">@color/ubaya_blue</item>
+        <item name="android:statusBarColor">@color/ubaya_red_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+    <style name="SubtitleText">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.EventUbaya" parent="Base.Theme.EventUbaya"/>
+    <style name="TitleText">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

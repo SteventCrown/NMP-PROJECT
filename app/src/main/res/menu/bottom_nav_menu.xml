@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemEvents"
+        android:icon="@drawable/ic_event_note"
+        android:title="@string/menu_events" />
+    <item
+        android:id="@+id/itemRegistered"
+        android:icon="@drawable/ic_confirmation_number"
+        android:title="@string/menu_registered" />
+    <item
+        android:id="@+id/itemProfile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/menu_profile" />
+</menu>
